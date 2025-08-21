@@ -42,3 +42,20 @@ while True:
 
     else:
         print("Opção inválida. Tente novamente.")
+
+
+📌 O que foi aprendido
+
+Criação e manipulação de listas em Python.
+Métodos essenciais: append() (adicionar) e remove() (remover).
+Uso de in para verificar se um item está na lista.
+len() para contar itens.
+enumerate() para listar com numeração (1, 2, 3…).
+Construção de menu interativo com while e if/elif/else.
+Boas práticas de UX no console (mensagens claras e feedback após cada ação).
+
+💭 Comentário pessoal
+
+Foi muito legal ver como listas facilitam organizar informações do dia a dia.
+Com poucas linhas, consegui montar um mini-sistema que adiciona, remove e exibe itens.
+Senti que estou mais confiante com loops e condições, e já enxergo como posso evoluir esse projeto (ex.: salvar a lista em arquivo).
